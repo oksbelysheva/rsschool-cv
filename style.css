@@ -1,0 +1,12 @@
+img{
+    width: 300;
+}
+
+ul{
+    display: block;
+}
+
+.content{
+    width: 300px;
+    margin: auto;
+}
